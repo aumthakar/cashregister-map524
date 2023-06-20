@@ -1,0 +1,11 @@
+
+t
+java:S1450"^Remove the "enterStockValue" field and declare it as a local variable in the relevant methods.(ªëÂ­
+s
+java:S1450"]Remove the "productAdapter" field and declare it as a local variable in the relevant methods.(‰¥‰Õ
+s
+java:S1450"^Remove the "productListView" field and declare it as a local variable in the relevant methods.(“Şù
+r
+java:S1450"\Remove the "restockButton" field and declare it as a local variable in the relevant methods.(üıØÖ
+M
+java:S1172:"+Remove this unused method parameter "view".(¶é–ªøÿÿÿÿ8ô“šÉ1

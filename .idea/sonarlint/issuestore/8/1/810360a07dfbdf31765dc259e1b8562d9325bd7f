@@ -1,0 +1,23 @@
+
+
+java:S1319 "kThe type of "productList" should be an interface such as "List" rather than the implementation "ArrayList".(Æç¡ê
+
+java:S1319!"sThe type of "selectedProductList" should be an interface such as "List" rather than the implementation "ArrayList".( ³öûÿÿÿÿ
+€
+java:S1319²"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(ÿëë×øÿÿÿÿ
+i
+java:S1104"SMake adapter a static final constant or non-public and provide accessors if needed.(Úå¥ê
+m
+java:S1104 "WMake productList a static final constant or non-public and provide accessors if needed.(Æç¡ê
+z
+java:S1104!"_Make selectedProductList a static final constant or non-public and provide accessors if needed.( ³öûÿÿÿÿ
+G
+java:S1444 "1Make this "public static productList" field final(Æç¡ê
+T
+java:S1444!"9Make this "public static selectedProductList" field final( ³öûÿÿÿÿ
+J
+java:S1602„",Remove useless curly braces around statement(¢´íÜ8ù€¶Ë1
+D
+java:S2386¥"&Make member "productList" "protected".(òšÄ8Òä±Ë1
+Q
+java:S2386¦".Make member "selectedProductList" "protected".(Õ‹§Îúÿÿÿÿ8Òä±Ë1
